@@ -1,6 +1,7 @@
 # Blockchain-crypto-pycoin
 
-A Python blockchain app, running transactions of a cryptocurrency named Pycoin
+A Python blockchain app, running transactions of a cryptocurrency named Pycoin.
+### Important : This project is for educational purposes only and the source code shouldn't be use in production as it doesn't have good security, doesn't scale well and lacks many important features. 
 
 The github repository contains a basic implementation of a blockchain and its client using Python. This blockchain has the following features:
 
