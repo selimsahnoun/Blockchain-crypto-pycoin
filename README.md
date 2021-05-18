@@ -3,7 +3,7 @@
 A Python blockchain app, running transactions of a cryptocurrency named Pycoin.
 ### Important : This project is for educational purposes only and the source code shouldn't be use in production as it doesn't have good security, doesn't scale well and lacks many important features. 
 
-###click on image to be directed to youtube for video demo
+### click on image to be directed to youtube for video demo
 
 [<img src="https://img.youtube.com/vi/AJNHsBMKJDQ/maxresdefault.jpg" width="50%">](https://youtu.be/AJNHsBMKJDQ)
 
